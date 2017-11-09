@@ -1,0 +1,116 @@
+h1{
+	text-align: center;
+	padding-bottom: 100px;
+}
+header{
+
+}
+body{
+	background-color: #87CEEB;
+}
+footer{
+
+}
+
+#wrapper{
+	margin: 0 auto;
+	height: 400px;
+	width: 400px;
+	background-color: #87CEEB;
+	position: relative;
+	border-radius: 100%;
+	border: solid;
+	border-color: #3CB371;
+}
+/*.me{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: tomato;
+}*/
+
+
+.food{
+	width: 100px;
+	height: 100px;
+	background-image: url('food.svg');
+	background-size: cover;
+
+	bottom: 350;
+	left: 150;
+	position: absolute;
+	margin: auto;
+
+}
+#containerfood{
+	text-align: center;
+}
+
+.books{
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: dodgerblue;
+		background-image: url('food.svg');
+	bottom: 300;
+	left: 300;
+	position: absolute;
+
+}
+
+.rolemodels{
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: mediumseagreen;
+	bottom: 150;
+	left: 350;
+	position: absolute;
+}
+
+.technology{
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: pink;
+	bottom: 20;
+	left: 285;
+	position: absolute;
+}
+.tvshows{
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: violet;
+	bottom: -45;
+	left: 150;
+	position: absolute;
+
+}
+.movies{
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: tomato;
+	bottom: 10;
+	left: 10;
+	position: absolute;
+
+}
+.spain{
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: lightgray;
+	bottom: 150;
+	left: -50;
+	position: absolute;
+
+
+}
